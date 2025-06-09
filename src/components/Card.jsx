@@ -1,5 +1,5 @@
 export const Card = () => {
   return (
-    <did>card</did>
+    <did>Card</did>
   )
 }
