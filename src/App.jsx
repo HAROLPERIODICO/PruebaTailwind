@@ -1,5 +1,5 @@
 import { Hero } from "./components/Hero"
-import { Cards-container } from "./components/Cards-container"
+import { CardsContainer } from "./components/cards-container"
 
 function App() {
 
@@ -7,7 +7,7 @@ function App() {
     <>
     {/* Aquí irán las demás secciones */}
       <Hero />
-      <Cards-container />
+      <CardsContainer />
       
     </>
   )
