@@ -38,8 +38,8 @@ export const Cards-container = () => {
       services.map(service => {
         return(
           <Card key={service.id} />
-        )        
-      })
+          )        
+        })
       }
     </section>
   )
