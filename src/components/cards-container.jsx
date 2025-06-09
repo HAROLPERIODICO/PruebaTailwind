@@ -1,5 +1,5 @@
 import { Card } from "./card"
-export const Cards-container = () => {
+export const CardsContainer = () => {
 
   const services = [
     {
