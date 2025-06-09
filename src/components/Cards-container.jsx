@@ -7,28 +7,28 @@ export const Cards-container = () => {
       title: "La mona",
       description: "Pelicula de terror",
       img: "",
-      color:""
+      color: ""
     },
-
+    {
       id: 2,
       title: "Supervisor",
       description: "El que supervisa",
       img: "",
-      color:""
+      color: ""
     },
-
+    {
       id: 3,
       title: "El cantante",
       description: "Hector Lavo",
       img: "",
-      color:""
+      color: ""
     },
-
+    {
       id: 4,
       title: "El despresiable",
       description: "Pelicula de suspenso",
       img: "",
-      color:""
+      color: ""
     },    
   ]
     
